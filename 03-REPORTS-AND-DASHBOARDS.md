@@ -1,7 +1,7 @@
 # Reports and Dashboards
 
 ## Reference
-- [Reports and Dashboards Overview](https://trailhead.salesforce.com/trails/getting_started_crm_basics/modules/reports_dashboards/units/reports_dashboards_overview)
+- [Reports and Dashboards Overview](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_reports_dashboards)
 
 ## Reports
 - A report is a list of records that meet the criteria you define. It’s displayed in Salesforce in rows and columns, and can be filtered, grouped, or displayed in a graphical chart.
